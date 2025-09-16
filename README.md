@@ -1,4 +1,4 @@
-# WeatherPy - Advanced Weather Forecast Application
+# Weather Forcast - Advanced Weather Forecast Application
 
 A modern, feature-rich weather application built with Python and CustomTkinter, providing real-time weather data and 5-day forecasts with a beautiful, responsive user interface.
 
@@ -15,7 +15,7 @@ A modern, feature-rich weather application built with Python and CustomTkinter, 
 
 ## Screenshots
 
-![Weather App Screenshot](weather_forcast/assets/screenshot.png)
+![Weather App Screenshot](weather_forcast/weather_app/assets/screenshot.png)
 
 ## Installation
 
