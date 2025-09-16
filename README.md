@@ -15,7 +15,7 @@ A modern, feature-rich weather application built with Python and CustomTkinter, 
 
 ## Screenshots
 
-![Weather App Screenshot](assets/screenshot.png)
+![Weather App Screenshot](weather_forcast/assets/screenshot.png)
 
 ## Installation
 
