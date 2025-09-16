@@ -153,4 +153,4 @@ If you encounter any issues or have questions:
 
 ---
 Contact me : therajtiwari.1@gmail.com <br>
-**Enjoy tracking the weather with WeatherPy!** 🌤️
+**Enjoy tracking the weather** 🌤️
