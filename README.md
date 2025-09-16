@@ -152,5 +152,5 @@ If you encounter any issues or have questions:
 - [ ] Weather widgets for desktop
 
 ---
-Contact me : therajtiwari.1@gmail.com
+Contact me : therajtiwari.1@gmail.com <br>
 **Enjoy tracking the weather with WeatherPy!** 🌤️
